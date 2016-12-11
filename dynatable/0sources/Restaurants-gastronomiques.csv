@@ -1,0 +1,247 @@
+Raison Sociale;Type;Sous-type;Type de cuisine;Ligne adresse 1;Numéro;Complément numéro;Type de voie;Voie;Ligne adresse 3;Boite postale;Code postal;Ville;Bureau distributeur;Indicateur cédex;Cédex;Téléphone;Mail;Adresse Web;Longitude;Latitude
+L'aubergine;cdt:Brasserie;;Traditionnelle;;18;;Avenue;Jean-Jaurès;;;13810;Eygalières;EYGALIERES;non;;04 90 95 98 89;;;4.9537705;43.7607152
+Brasserie d'Eygalières;cdt:Brasserie;;Méditerranéenne ;;1;;Rue;De la République;;;13810;Eygalières;EYGALIERES;non;;04 90 95 93 17;;;4.9493714;43.7614402
+Le Petit Port;cdt:Restaurant;;"Provençale
+Poisson/fruits de mer
+Italienne
+Pizza
+Méditerranéenne ";L'Escalette;;;Chemin;Des Goudes;;;13008;Marseille;MARSEILLE;non;;04 91 72 20 00;;http://restaurant-le-petit-port.fr;5.34846;43.22578
+Cyprien;cdt:Restaurant;;Gastronomique;;56;;Avenue;De Toulon;;;13006;Marseille;MARSEILLE;non;;04 91 25 50 00;;http://www.restaurant-cyprien.com;5.387712;43.285421
+Les pieds dans le plat;cdt:Restaurant;;"Provençale
+Méditerranéenne ";;2;;Rue;Pastoret;;;13006;Marseille;MARSEILLE;non;;04 91 48 74 15;;;5.383721;43.293433
+Pizzeria Jeannot;"cdt:Pizzeria
+cdt:Restaurant";;"Traditionnelle
+Provençale
+Poisson/fruits de mer";;129;;;Vallon des Auffes;;;13007;Marseille;MARSEILLE;non;;04 91 52 11 28;;http://pizzeriachezjeannot.com;5.351627;43.285453
+Le Boucher;cdt:Restaurant;;Grillades (spécialité);;10;;Rue;Du Village;;;13006;Marseille;MARSEILLE;non;;04 91 48 79 65;leboucher@francegourmande.fr;;5.385316;43.288482
+Le Café des Epices;cdt:Restaurant;;Gastronomique;;4;;Rue;Du Lacydon;;;13002;Marseille;MARSEILLE;non;;04 91 91 22 69;contact@cafedesepices.com;"http://www.cafedesepices.com
+http://laterrasse-cafedesepices.com";5.369278;43.296841
+Atelier de Jean-Luc Rabanel;cdt:Restaurant;;"Gastronomique
+Bio (cuisine sur la base de produits bio)";;7;;Rue;Des Carmes;;;13200;Arles;ARLES;non;;04 90 91 07 69;contact@rabanel.com;http://www.rabanel.com;4.627049;43.67587
+Victor Café;cdt:Restaurant;;Méditerranéenne ;Le Pharo;71;;Boulevard;Charles Livon;;;13007;Marseille;MARSEILLE;non;;04 88 00 46 00;info@newhotelofmarseille.com;http://www.victorcafemarseille.com;5.359182;43.292066
+Le Patio;cdt:Restaurant;;"Gastronomique
+Provençale";;117;;Route;Du Nord;;;13990;Fontvieille;FONTVIEILLE;non;;04 90 54 73 10;;http://www.lepatio-alpilles.com;4.711329;43.72784
+Bistrot découverte;cdt:Restaurant;;Méditerranéenne ;;19;;Boulevard;Victor Hugo;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 34 49;c.bonnefoy@live.fr;http://www.bistrotdecouverte.com;4.832105;43.78772
+Chez Michel;cdt:Restaurant;;"Gastronomique
+Poisson/fruits de mer
+Provençale";;6;;Rue;Des Catalans;;;13007;Marseille;MARSEILLE;non;;04 91 52 30 63;;http://www.restaurant-michel-13.fr/;5.355931;43.290709
+Roche Belle;cdt:Restaurant;;Gastronomique;;;;Corniche;Du Liouquet;;;13600;La Ciotat;LA CIOTAT;non;;04 42 71 47 60;edwige.guesnet@orange.fr;;5.619656;43.200985
+L'Epuisette;cdt:Restaurant;;"Gastronomique
+Poisson/fruits de mer
+Actuelle
+Traditionnelle";;;;;;Anse du Vallon des Auffes;;13007;Marseille;MARSEILLE;non;;04 91 52 17 82;contact@l-epuisette.com;http://www.l-epuisette.com;5.350213;43.28511
+Chez Etienne;cdt:Pizzeria;;"Provençale
+Pizza";;43;;Rue;De Lorette;;;13001;Marseille;MARSEILLE;non;;04 91 00 00 00;;;5.36999;43.30015
+Limone;cdt:Restaurant;;Italienne;;32;;Boulevard;Notre-Dame;;;13006;Marseille;MARSEILLE;non;;04 91 91 47 64;;;5.372994;43.288842
+Le Bistrot à Vin;cdt:Restaurant;;Traditionnelle;;17;;Rue;Sainte;;;13001;Marseille;MARSEILLE;non;;04 91 54 02 20;;;5.376013;43.292681
+Chassagnette;cdt:Restaurant;;Traditionnelle;;;;Route;Du Sambuc;;;13200;Arles;ARLES;non;;04 90 97 26 96;;http://www.chassagnette.fr;4.6475;43.596188
+La Table de Ventabren;cdt:Restaurant;;Traditionnelle;;1;;Rue;Cézanne;Frédéric Mistral;;13122;Ventabren;VENTABREN;non;;04 42 28 79 33;contact@latabledeventabren.com;http://www.latabledeventabren.com;5.292099;43.53869
+L'Aile ou la Cuisse;cdt:Restaurant;;Traditionnelle;;5;;Rue;De la commune;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 32 62 00 25;jean.pierre.ricci@gmail.com;;4.831882;43.788178
+Bistrot des Alpilles;cdt:Restaurant;;Provençale;;15;;Boulevard;Mirabeau;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 09 17;lba1@wanadoo.fr;http://www.lebistrotdesalpilles.com;4.833252;43.788832
+La Trilogie des Cépages;cdt:Restaurant;;Gastronomique;;35;;Rue;De la Paix Marcel Paul;;;13001;Marseille;MARSEILLE;non;;04 91 33 96 03;contact@trilogiedescepages.com;http://www.trilogiedescepages.com;5.372846;43.292202
+L'Aromat;cdt:Restaurant;;Méditerranéenne ;;49;;Rue;Sainte;;;13001;Marseille;MARSEILLE;non;;04 91 55 09 06;laromat@orange.fr;http://www.laromat.com;5.381494;43.290807
+La Fabrique;cdt:Restaurant;;Traditionnelle;;3;;Place;Jules Verne;;;13002;Marseille;MARSEILLE;non;;04 91 91 40 48;;;5.368658;43.296503
+Le Goût des Choses;cdt:Restaurant;;Internationale ;;4;;Place;Notre-Dame du Mont;;;13001;Marseille;MARSEILLE;non;;04 91 48 70 62;contact@legoutdeschoses.fr;http://www.legoutdeschoses.fr;5.38355;43.292272
+Le Mina Kouk;cdt:Restaurant;;"Méditerranéenne 
+Maghreb
+Végétarien - diététique (spécialité)";;21;;Rue;Fontange;;;13006;Marseille;MARSEILLE;non;;04 91 53 54 55;contact@minakouk.com;http://www.minakouk.com;5.3808683;43.2875818
+Le César Place;cdt:Restaurant;;Méditerranéenne ;;21;;Place;Aux Huiles;;;13001;Marseille;MARSEILLE;non;;04 91 33 25 22;;http://www.restaurant-cesarplace.com;5.371739;43.292866
+L'Oustalet Maianen;cdt:Restaurant;;Méditerranéenne ;;16;;Avenue;Lamartine;;;13910;Maillane;MAILLANE;non;;04 90 95 74 60;christian.garino@wanadoo.fr;http://www.oustaletmaianen.com;4.782376;43.831353
+La Cantinetta;cdt:Restaurant;;Italienne;;24;;Cours;Julien;;;13006;Marseille;MARSEILLE;non;;04 91 48 10 48;;;5.380868;43.287582
+Chez Madie Les Galinettes;cdt:Restaurant;;Provençale;;138;;Quai;Du Port;;;13002;Marseille;MARSEILLE;non;;04 91 90 40 87;madielesgalinettes@gmail.com;http://chezmadie.idhii.net/;5.367579;43.295956
+Le Malthazar;"cdt:Restaurant
+cdt:Brasserie";;"Lyonnaise
+Traditionnelle
+Gastronomique";;19;;Rue;Fortia;;;13001;Marseille;MARSEILLE;non;;04 91 33 42 46;veroanto@free.fr;http://www.malthazar.fr/;5.3742;43.29182
+Vinonéo Bistrot;"cdt:BarAVin
+cdt:Restaurant";;Traditionnelle;;6;;Place;Daviel;;;13002;Marseille;MARSEILLE;non;;04 91 90 40 26;contact@vinoneo.fr;http://www.vinoneo.fr/;5.369367;43.297535
+Quelque Part;cdt:Restaurant;;Traditionnelle;;4;;Rue;D'Italie;;;13006;Marseille;MARSEILLE;non;;04 91 47 57 50;quelquepart13@orange.fr;;5.381478;43.290798
+Les Arcenaulx;cdt:Restaurant;;Traditionnelle;;25;;Cours;D'Estienne d'Orves;;185;13001;Marseille;MARSEILLE;non;;04 91 59 80 30;restaurant@les-arcenaulx.com;http://www.les-arcenaulx.com;5.3731377;43.2925242
+Le Relais 50;cdt:Restaurant;;Gastronomique;;20;;Quai;Du Port;;;13002;Marseille;MARSEILLE;non;;04 91 52 52 50;info@hrvpm.com;http://www.hotelmarseille.com;5.372792;43.296357
+Virgin Café;cdt:Restaurant;;Traditionnelle;;75;;Rue;Saint-Ferréol;;;13006;Marseille;MARSEILLE;non;;04 91 54 35 26;cafe.marseille@virginstores.fr;http://www.virginmegastore.fr;5.379104;43.292061
+Le Siam;cdt:Restaurant;;Thailandaise;;25;;Promenade;Du Grand Large;;;13008;Marseille;MARSEILLE;non;;04 91 73 91 08;lesiam@francegourmande.fr;;5.363537;43.241299
+Le 29 Place aux Huiles;cdt:Restaurant;;Méditerranéenne ;;29;;Place;Aux Huiles;;;13001;Marseille;MARSEILLE;non;;04 91 33 26 44;contact@29placeauxhuiles.com;http://www.29placeauxhuiles.com;5.371739;43.292866
+Tiboulen de Maïre;cdt:Restaurant;;Poisson/fruits de mer;La Calanque Blanche;;;Route;Des Goudes;;;13008;Marseille;MARSEILLE;non;;04 91 25 26 30;tiboulen.de.maire@wanadoo.fr;;5.348492;43.225772
+Le Bistrot d'Edouard;cdt:Restaurant;;Méditerranéenne ;;150;;Rue;Jean Mermoz;;;13001;Marseille;MARSEILLE;non;;04 91 71 16 52;;;5.3868405;43.2717352
+Le Cirque;cdt:Restaurant;;Gastronomique;;118;;Quai;Du Port;;;13002;Marseille;MARSEILLE;non;;04 91 91 08 91;christhaba@hotmail.fr;;5.368525;43.295936
+Le Calypso;cdt:Restaurant;;"Poisson/fruits de mer
+Gastronomique";;3;;Rue;Des Catalans;;;13007;Marseille;MARSEILLE;non;;04 91 52 40 60;lecalypso@francegourmande.fr;http://www.restaurantcalypso.fr;5.35578;43.291779
+Le Péron;cdt:Restaurant;;Gastronomique;;56;;Corniche;J.F. Kennedy;;;13007;Marseille;MARSEILLE;non;;04 91 52 15 22;info@restaurant-peron.com;http://www.restaurant-peron.com;5.352323;43.287889
+Auberge Cavalière;cdt:Restaurant;;Provençale;;;;RD;570 - Route d'Arles;;;13460;Saintes Maries de la Mer;LES SAINTES MARIES DE LA MER;non;;04 90 97 88 88;reception@aubergecavaliere.com;http://www.aubergecavaliere.com;4.42022037;43.4642715
+Le clos saint roch;cdt:Restaurant;;Gastronomique;;87;;Avenue;De la vallée des baux;;;13520;Maussane les Alpilles;MAUSSANE LES ALPILLES;non;;04 90 98 77 15;leclosaintroch@yahoo.com;http://maussane.com;4.807346;43.7205044
+Le Miramar;cdt:Restaurant;;"Gastronomique
+Poisson/fruits de mer";;12;;Quai;Du Port;;;13002;Marseille;MARSEILLE;non;;04 91 91 10 40;contact@bouillabaisse.com;http://www.lemiramar.fr/site/;5.37309;43.296281
+Le Petit Nice - Passédat;cdt:Restaurant;;"Gastronomique
+Traditionnelle
+Poisson/fruits de mer
+Végétarien - diététique (spécialité)
+Actuelle
+Méditerranéenne ";Anse de Maldormé;;;Corniche;John Fitzerald Kennedy;;;13007;Marseille;MARSEILLE;non;;04 91 59 25 92;contact@passedat.fr;http://www.passedat.fr;5.358175;43.276531
+La Garbure;cdt:Restaurant;;Sud Ouest;;9;;Cours;Julien;;;13006;Marseille;MARSEILLE;non;;04 91 47 18 01;contact@restaurant-marseille-lagarbure.com;http://www.restaurant-marseille-lagarbure.com/;5.383051;43.294326
+Le Lauracée;cdt:Restaurant;;Méditerranéenne ;;96;;Rue;Grignan;;;13006;Marseille;MARSEILLE;non;;04 91 33 63 36;contact@lelauracee.com;http://www.lelauracee.com;5.372774;43.291178
+Question de goût;cdt:Restaurant;;"Traditionnelle
+Internationale ";;145-147;;Avenue;Joseph Vidal;;;13008;Marseille;MARSEILLE;non;;"04 91 73 59 08
+06 88 11 26 97";contact@unequestiondegout.fr;http://www.unequestiondegout.fr;5.3753994;43.2494253
+Le Grain de sel;cdt:Restaurant;;"Gastronomique
+Méditerranéenne ";;39;;Rue;De la Paix Marcel Paul;;;13001;Marseille;MARSEILLE;non;;04 91 54 47 30;primos13@orange.fr;;5.373098;43.291934
+Ou Ravi Provençau;cdt:Restaurant;;Gastronomique;;34;;Avenue;De la vallée des baux;;;13520;Maussane les Alpilles;MAUSSANE LES ALPILLES;non;;04 90 54 31 11; infos@ouravi.net;http://www.maussane.com;4.8030825;43.7216116
+La Bergerie;cdt:Restaurant;;Gastronomique;Le Guéby Sud;;;;;;;13250;Saint Chamas;ST CHAMAS;non;;"04 90 50 82 29
+06 60 50 82 29";labergerie13250@wanadoo.fr;http://www.restaurant-la-bergerie.fr;5.040922;43.542451
+Le Rabelais;cdt:Restaurant;;Gastronomique;;8;;Rue;Auguste Fabre;;;13250;Saint Chamas;ST CHAMAS;non;;04 90 50 84 40;le.rabelais@wanadoo.fr;http://www.restaurant-le-rabelais.com;5.031915;43.550108
+Axis Restaurant;cdt:Restaurant;;Méditerranéenne ;;8;;Rue;Sainte Victoire;;;13006;Marseille;MARSEILLE;non;;04 91 57 14 70;axis_restaurant@yahoo.fr;http://www.axis-restaurant.com;5.382867;43.286535
+La Poule Noire;cdt:Restaurant;;Traditionnelle;;61;;Rue;Sainte;;;13001;Marseille;MARSEILLE;non;;04 91 55 68 86;fronk242@yahoo.fr;;5.373014;43.291978
+La table de Beaurecueil - Juberg fait la cuisine;cdt:Restaurant;;Traditionnelle;La Ferme;66;;Allée;Des Mûriers;;;13100;Beaurecueil;BEAURECUEIL;non;;04 42 66 94 98;jubergfait@free.fr;http://www.latabledebeaurecueil.com;5.530721;43.519576
+Le Vieux Four;cdt:Restaurant;;Provençale;;73;;Rue;Pasteur;;;13890;Mouriès;MOURIES;non;;04 90 47 64 94;contact@le-vieux-four.com;http://www.le-vieux-four.com;4.87813;43.705143
+Chez Bob;cdt:Restaurant;;"Provençale
+Grillades (spécialité)";Mas Petite Antonelle;;;;;Villeneuve Romieu;;13200;Arles;ARLES;non;;04 90 97 00 29;jeanguy@restaurantbob.fr;http://restaurantbob.fr;4.630417;43.57354
+Chez Fonfon;cdt:Restaurant;;Poisson/fruits de mer;;140;;;Vallon des Auffes;;;13007;Marseille;MARSEILLE;non;;04 91 52 14 38;contact@chez-fonfon.com;http://www.chez-fonfon.com;5.350465;43.285223
+Formal (Le) - Les caves Henri IV;cdt:Restaurant;;"Traditionnelle
+Gastronomique";;32;;Rue;Espariat;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 27 08 31;;;5.447572;43.527501
+Tomate verte (La);cdt:Restaurant;;"Méditerranéenne 
+Provençale
+Gastronomique";;15;;Rue;Des Tanneurs;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 60 04 58;contact@latomateverte.com;http://www.latomateverte.com;5.446335;43.527772
+Riad (Le);"cdt:Restaurant
+cdt:LivraisonADomicilePlatAEmporter";Plats à emporter;"Marocaine
+Gastronomique";;21;;Rue;Lieutaud;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 26 15 79;contact@leriad.com;http://www.leriad.com;5.445276;43.529368
+Yamato;cdt:Restaurant;;"Japonaise
+Gastronomique";;21;;Avenue;Des Belges;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 38 00 20;contact@restaurant-yamato.com;http://www.restaurant-yamato.com;5.443794;43.52472
+Poivre d'Ane (Le);cdt:Restaurant;;Gastronomique;;40;;Place;Des Cardeurs;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 21 32 66;lepoivredane@club-internet.fr;http://www.restaurantlepoivredane.com;5.446206;43.530056
+Pierre Reboul;cdt:Restaurant;;"Gastronomique
+Actuelle";11, petite rue Saint Jean;;;;;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 20 58 26;restaurant-pierre-reboul@orange.fr;http://www.restaurant-pierre-reboul.com;5.45109;43.528171
+Jacquou le croquant;cdt:Restaurant;;"Sud Ouest
+Provençale
+Gastronomique";;2;;Rue;Aumône Vieille;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 27 37 19;jacquoulecroquant@wanadoo.fr;http://www.jacquoulecroquant.com;5.446746;43.528325
+Epicurien (L');cdt:Restaurant;;"Traditionnelle
+Gastronomique";;13;;Place;Des Cardeurs;;;13100;Aix en Provence;AIX EN PROVENCE;non;;06 89 33 49 83;aixepicurien@gmail.com;;5.4462583;43.5297842
+Le Charles Livon;cdt:Restaurant;;Gastronomique;;89;;Boulevard;Charles Livon;;;13007;Marseille;MARSEILLE;non;;04 91 52 22 41;contact@charleslivon.fr;http://www.charleslivon.fr;5.358378;43.291987
+Casa Romana;cdt:Restaurant;;Provençale;;6;;Rue;Joseph Roumanille;;;13460;Saintes Maries de la Mer;LES SAINTES MARIES DE LA MER;non;;"04 90 97 83 33
+06 09 51 69 16";christian.etienne0946@orange.fr;http://monsite.orange.fr/florica;4.4278751;43.4523809
+La Table du Meunier;cdt:Restaurant;;"Provençale
+Méditerranéenne ";;42;;Cours;Hyacinthe Bellon;;;13990;Fontvieille;FONTVIEILLE;non;;04 90 54 61 05;;;4.711114;43.72689
+Château des Alpilles;cdt:Restaurant;;"Provençale
+Méditerranéenne 
+Traditionnelle";;;;RD;31;Ancienne Route du Grès;2;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 03 33;chateau.alpilles@wanadoo.fr;http://www.chateaudesalpilles.com;4.810638;43.788701
+Petit Verdot (Le);"cdt:Restaurant
+cdt:BarAVin";;"Provençale
+Méditerranéenne 
+Gastronomique";;7;;Rue;D'Entrecasteaux;;;13100;Aix en Provence;AIX EN PROVENCE;non;;"04 42 27 30 12
+06 66 62 67 75";lepetitverdot@wanadoo.fr;http://www.lepetitverdot.fr;5.444916;43.528513
+Une Table au Sud;cdt:Restaurant;;"Gastronomique
+Actuelle
+Cuisine du monde";;2;;Quai;Du Port;;;13002;Marseille;MARSEILLE;non;;04 91 90 63 53;unetableausud@wanadoo.fr;http://www.unetableausud.com;5.373522;43.29617
+Le Grand Puech;cdt:Restaurant;;Gastronomique;;8;;Rue;St Sébastien;;;13105;Mimet;MIMET;non;;04 42 58 91 06;contact@legrandpuech.fr;http://www.legrandpuech.fr;5.505655;43.413888
+Le Château de Richebois;cdt:Restaurant;;Gastronomique;;;;Route;D'Eyguières;;;13300;Salon de Provence;SALON DE PROVENCE;non;;04 90 56 85 85;richebois@wanadoo.fr;http://www.chateauderichebois.com;5.08568;43.656019
+La Virgule;cdt:Restaurant;;Gastronomique;;27;;Rue;De la Loge;;;13002;Marseille;MARSEILLE;non;;04 91 90 91 11;lavirgule.marseille@free.fr;http://lavirgule.marseille.free.fr;5.36843;43.296277
+Le Mas du Soleil;cdt:Restaurant;;Gastronomique;;38;;Chemin;De Saint Come;;;13300;Salon de Provence;SALON DE PROVENCE;non;;04 90 56 06 53;mas.du.soleil@wanadoo.fr;http://www.lemasdusoleil.com;5.104004;43.64218
+La Salle à Manger;cdt:Restaurant;;Gastronomique;;6;;Rue;Du Maréchal Joffre;;;13300;Salon de Provence;SALON DE PROVENCE;non;;04 90 56 28 01;;;5.098784;43.641348
+Rotonde (La);cdt:Brasserie;;"Cuisine du monde
+Gastronomique";;2;;Place;Jeanne d'Arc;;346;13611;Aix en Provence;AIX EN PROVENCE;non;;04 42 91 61 70;fontaine.mirabeau@wanadoo.fr;http://www.larotonde-aix.com;5.445387;43.526965
+Les Trois Forts;cdt:Restaurant;;"Gastronomique
+Traditionnelle";Hôtel Sofitel Vieux Port;36;;Boulevard;Charles Livon;;;13007;Marseille;MARSEILLE;non;;04 91 15 59 55;H0542@sofitel.com;http://www.sofitel.com;5.361247;43.292245
+Côté Cour;cdt:Restaurant;;"Traditionnelle
+Gastronomique";;19;;Cours;Mirabeau;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 93 12 51;restaurantcotecour@orange.fr;http://www.restaurantcotecour.fr;5.4476818;43.526759
+Riviera (Le) - Hôtel Le Pigonnet;cdt:Restaurant;;"Gastronomique
+Actuelle";Hôtel Le Pigonnet;5;;Avenue;Du Pigonnet;;;13090;Aix en Provence;AIX EN PROVENCE;non;;04 42 59 02 90;reservation@hotelpigonnet.com;http://www.hotelpigonnet.com;5.439334;43.517844
+Auberge Provençale;"cdt:Restaurant
+cdt:LivraisonADomicilePlatAEmporter";Plats à emporter;"Provençale
+Gastronomique";;;;Impasse;De Provence;Le Canet;;13590;Meyreuil;MEYREUIL;non;;04 42 58 68 54;aubergiste@aol.com;http://www.auberge-provencale.fr;5.523644;43.494775
+Mas de la Fouque;cdt:Restaurant;;Provençale;;;;Route;Du Petit Rhône;;;13460;Saintes Maries de la Mer;LES SAINTES MARIES DE LA MER;non;;04 90 97 81 02;info@masdelafouque.com;http://www.masdelafouque.com;4.3982954;43.4624366
+Atelier de Georgiana;cdt:CuisinierADomicile;;Divers;;19;;Rue;Saint-Jacques;;;13006;Marseille;MARSEILLE;non;;"09 53 08 39 72
+06 24 30 14 19";atelier@georgiana.fr;http://www.georgiana.fr;5.380644;43.289085
+Restaurant Marc de Passorio-Vallon de Valrugues;cdt:Restaurant;;Actuelle;Hôtellerie du Vallon de Valrugues;;;Chemin;Canto Cigalo;;;13531;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 04 40;restaurant@vallondevalrugues.com;http://www.restaurant-marcdepassorio.com;4.841455;43.78456
+Café de la Place;cdt:Brasserie;;"Traditionnelle
+Méditerranéenne 
+Provençale";;17;;Place;De la République;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 02 13;lecafedelaplace13@orange.fr;http://www.cafedelaplace-stremy.fr/;4.829466;43.788336
+Bistro du Cours;cdt:Restaurant;;Actuelle;;13;;Cours;Julien;;;13006;Marseille;MARSEILLE;non;;04 86 97 59 11;;http://www.bistroducours.com;5.383054;43.294339
+Le Potager du Mas;cdt:FermeAuberge;;Gastronomique;Mas de la Rose;;;Route;D'Eygalières;;;13660;Orgon;ORGON;non;;04 90 73 08 90;info@lepotagerdumas.com;http://www.lepotagerdumas.com;5.0100351;43.780016
+La Petite Table;cdt:Restaurant;;Gastronomique;;Angle;;Route;D'Orgon et Avenue du Général de Gaulle;;;13810;Eygalières;EYGALIERES;non;;04 90 38 19 23;;http://www.la-petite-table-eygalieres.com;4.9513912;43.7614611
+Villa Gallici;cdt:Restaurant;;"Traditionnelle
+Gastronomique";;;;Avenue;De la Violette;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 23 29 23;reservation@villagallici.com;http://www.villagallici.com;5.448891;43.534973
+Les Terrasses de l' Image;cdt:Restaurant;;Traditionnelle;;36;;Boulevard;Victor Hugo;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 51 50;reservation@hoteldelimage.com;http://www.hotel-image.fr;4.832658;43.787839
+Mama Shelter;cdt:Restaurant;;Méditerranéenne ;Résidence Mama Shelter;64;;Rue;De la Loubière;;;13006;Marseille;MARSEILLE;non;;04 84 35 20 00;marseille@mamashelter.com;http://www.mamashelter.com;5.3882987;43.2908724
+Le Bout d'Istres;cdt:Restaurant;;Gastronomique;;2;;Rue;Copernic;ZI Le tubé 2;;13800;Istres;ISTRES;non;;"04 42 85 00 00
+06 18 81 69 57";oboutdistres@orange.fr;;4.959641;43.519629
+Bastide Magdeleine;cdt:Restaurant;;"Provençale
+Gastronomique";;;;Route;D'Aix en Provence;Rond point de la Fontaine;;13420;Gémenos;GEMENOS;non;;04 42 32 20 16;;http://www.relais-magdeleine.com;5.623493;43.297766
+Chez Tania RIF;cdt:Restaurant;;Poisson/fruits de mer;;;;;;Calanque de Figuerolles;;13600;La Ciotat;LA CIOTAT;non;;04 42 08 41 71;contact@figuerolles.com;;5.604277;43.174023
+La Table de Nans;cdt:Restaurant;;Gastronomique;;;;Corniche;Du Liouquet;;;13600;La Ciotat;LA CIOTAT;non;;04 42 83 11 06;latabledenans@yahoo.fr;;5.664362;43.18336
+La Table de Sébastien;cdt:Restaurant;;Gastronomique;;7;;Avenue;Hélène Boucher;;;13800;Istres;ISTRES;non;;04 42 55 16 01;contact@latabledesebastien.fr;http://www.latabledesebastien.fr;4.988093;43.51239
+La Table de Roussan;cdt:Restaurant;;"Provençale
+Gastronomique";Chateau de Roussan;;;Route;De Tarascon;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 90 79 00;contact@chateauderoussan.com;http://www.chateauderoussan.com;4.807282;43.790869
+Ze Bis;cdt:Restaurant;;"Traditionnelle
+Gastronomique";;7;;Rue;De la Couronne;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 90 03 47;scolazebistro@gmail.com;http://www.zebis.fr;5.445991;43.527422
+Comme en Italie;cdt:Restaurant;;Italienne;;6;;Place;Sadi Carnot;;;13600;La Ciotat;LA CIOTAT;non;;04 86 33 43 81;commeenitalie@gmail.com;;5.608719;43.174749
+O Caprices de Mathias;cdt:Restaurant;;Méditerranéenne ;Domaine de Métfiot;;;Chemin;De la Croix des Vertus;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 32 62 00 00;mathiashenkeme@yahoo.fr;http://www.caprices-mathias.com;4.84047;43.782362
+L'Estagnol;cdt:Restaurant;;"Méditerranéenne 
+Poisson/fruits de mer";;16;;Boulevard;Victor Hugo;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 05 95;;http://www.restaurant-lestagnol.com;4.831541;43.787435
+Villa Régalido;cdt:Restaurant;;Gastronomique;;;;Avenue;Frédéric Mistral;;;13990;Fontvieille;FONTVIEILLE;non;;04 90 54 60 22;contact@laregalido.com;http://www.laregalido.com;4.705717;43.726873
+Mas de l' Amarine;cdt:Restaurant;;Méditerranéenne ;Le Mas de L' amarine;;;;Ancienne voie Aurélia;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 94 47 82;contact@mas-amarine.com;http://www.mas-amarine.com;4.866702;43.78037
+MÉO - Moment Émotion Osmose;"cdt:Restaurant
+cdt:BarAVin";;Gastronomique;;1;;Place;Du Colonel Berrurier;;;13150;Tarascon;TARASCON;non;;04 90 91 47 74;moment-emotion-osmose@orange.fr;http://www.meo-tarascon.fr;4.657795;43.801549
+Les Mazets des Roches;cdt:Restaurant;;Traditionnelle;RD 33;;;Route;De Fontvieille;;;13150;Tarascon;TARASCON;non;;04 90 91 34 89;mazets-roches@wanadoo.fr;http://www.restaurant-mazetsdesroches.com;4.693501;43.763811
+Le Mistral;cdt:Restaurant;;"Traditionnelle
+Provençale";;26;;Boulevard;Itam;;;13150;Tarascon;TARASCON;non;;04 90 91 27 62;contact@restaurant-mistral.com;http://www.restaurant-mistral.com;4.658933;43.806226
+La Ferme;cdt:Restaurant;;Gastronomique;;;;Chemin;De la Font de Mai;;;13400;Aubagne;AUBAGNE;non;;04 42 03 29 67;auberge-la-ferme@wanadoo.fr;http://www.aubergelaferme.com;5.537281;43.315327
+Le Ventre de l'Architecte;cdt:Restaurant;;Gastronomique;La Cité Radieuse;280;;Boulevard;Michelet;;;13008;Marseille;MARSEILLE;non;;06 65 62 48 16;contact@hotellecorbusier.com;http://www.hotellecorbusier.com;5.395069;43.265414
+Les Girelles;cdt:Restaurant;;Poisson/fruits de mer;Bâtiment A15;;;Rue;Frédéric Mistral;;;13960;Sausset les Pins;SAUSSET LES PINS;non;;04 42 45 26 16;;http://www.restaurant-les-girelles.com;5.110201;43.330348
+Le Madrigal;cdt:Restaurant;;Poisson/fruits de mer;;;;Avenue;Du Docteur Gérard Montus;;;13620;Carry le Rouet;CARRY LE ROUET;non;;04 42 44 58 63;;;5.155013;43.329459
+La Maison - Domaine de Bournissac;cdt:Restaurant;;Gastronomique;;;;Montée;D'Eyragues;Paluds de Noves;;13550;Noves;NOVES;non;;04 90 90 25 25;bournissac@wanadoo.fr;http://www.lamaison-a-bournissac.com;4.886642;43.840083
+Du Côté des Olivades;cdt:Restaurant;;Traditionnelle;;;;Chemin;De Bourgeac;;;13520;Le Paradou;LE PARADOU;non;;04 90 54 56 78;ducotedesolivades@wanadoo.fr;http://www.ducotedesolivades.com;4.799026;43.724754
+La Coursejade;cdt:Restaurant;;Non communiqué;;;;RD;85a - Route de Cacharel;;;13460;Saintes Maries de la Mer;LES SAINTES MARIES DE LA MER;non;;04 90 97 82 21;reservation@mas-de-calabrun.fr;http://www.mas-de-calabrun.fr;4.43522834;43.4935607
+La Part des Anges;cdt:BarAVin;;Traditionnelle;;33;;Rue;Sainte;;;13001;Marseille;MARSEILLE;non;;04 91 33 55 70;marseille@lapartdesanges.com;http://www.lapartdesanges.com;5.3752;43.292493
+Les Arômes;cdt:Restaurant;;Gastronomique;;8;;Rue;Moussard;;;13400;Aubagne;AUBAGNE;non;;04 42 03 72 93;francoisebesset@neuf.fr;;5.56877;43.292528
+ROMANO;"cdt:Restaurant
+cdt:Traiteur";;Gastronomique;;15;;Quai;Barthélémy;;;13260;Cassis;CASSIS;non;;04 42 01 08 16;restaurant.romano@wanadoo.fr;http://www.restaurant-romano.com;5.536104;43.21455
+Le Bouchon à la Mer;cdt:Restaurant;;Gastronomique;;19;;Quai;Lucien Toulmond;;;13500;Martigues;MARTIGUES;non;;04 42 49 41 41;lebouchonalamer@wanadoo.fr;;5.052098;43.40566
+Mas de Peint;cdt:Restaurant;;Gastronomique;Le Sambuc;;;;;;;13200;Arles;ARLES;non;;04 90 97 20 62;contact@masdepeint.com;http://www.masdepeint.com;4.70998;43.513027
+Le Garage;cdt:Restaurant;;Gastronomique;;20;;Avenue;Frédéric Mistral;;;13500;Martigues;MARTIGUES;non;;04 42 44 09 51;contact@restaurantmartigues.com;http://www.restaurantmartigues.com;5.059719;43.40091
+La Table du Fort;cdt:Restaurant;;Méditerranéenne ;;8;;Rue;Fort Notre-Dame;;;13007;Marseille;MARSEILLE;non;;04 91 33 97 65;latabledufort@hotmail.fr;http://www.latabledufort.fr;5.37126;43.292996
+Le Pré Gourmand;cdt:Restaurant;;Gastronomique;;175;;Avenue;Max Dormoy;;;13630;Eyragues;EYRAGUES;non;;04 90 94 52 63;lepregourmand@orange.fr;http://www.restaurant-lepregourmand.com;4.846878;43.845896
+Auberge de Noves;cdt:Restaurant;;Traditionnelle;Domaine du Devés;3500;;Route;De Chateaurenard;D 28;;13550;Noves;NOVES;non;;04 90 24 28 28;resa@aubergedenoves.com;http://www.aubergedenoves.com;4.880912;43.887207
+Les Sarments;cdt:Restaurant;;"Provençale
+Gastronomique";;4;;Rue;Qui-Monte;;;13114;Puyloubier;PUYLOUBIER;non;;04 42 66 31 58;jsgentil@yahoo.fr;http://lessarments.wordpress.com/;5.674588;43.525904
+Bastide du Cours - Restaurant lounge;cdt:Restaurant;;"Provençale
+Gastronomique";;43 45 47;;Cours;Mirabeau;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 26 10 06;info@bastideducours.com;http://www.bastideducours.com;5.449655;43.526858
+Apéro Bistrot;cdt:Restaurant;;"Traditionnelle
+Gastronomique";;31-33;;Rue;Félibre Gaut;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 65 06 29;aperobistrot@orange.fr;http://www.aperobistrot.fr;5.446871;43.528966
+La Bastide de Cabriès;cdt:Restaurant;;Gastronomique;;;;Rue;Du Lac;Domaine du Lac Bleu;;13480;Cabriès;CABRIES;non;;04 42 69 07 81;info@bastidecabries.com;http://www.bastidecabries.com;5.333941;43.457436
+Le Mas de Jossyl;cdt:Restaurant;;"Traditionnelle
+Provençale";;;;Avenue;Du Parc;BP 37;;13640;La Roque d'Anthéron;LA ROQUE D'ANTHERON;non;;04 42 50 71 00;jossyl.mas@wanadoo.fr;http://www.masdejossyl.com;5.310516;43.719986
+Ze Bistro;cdt:Restaurant;;"Gastronomique
+Traditionnelle";;31;bis;Rue;Manuel;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 39 81 88;scolazebistro@gmail.com;http://www.zebistro.com;5.453652;43.528261
+Le Croque Chou;cdt:Restaurant;;"Bio (cuisine sur la base de produits bio)
+Gastronomique";;8;;Rue;Pellegrin;;;13670;Verquières;VERQUIERES;non;;04 90 95 18 55;folzfamily@le-croque-chou.fr;http://www.le-croque-chou.fr;4.916667;43.833333
+A Côté Le Bistrot;cdt:Restaurant;;"Bio (cuisine sur la base de produits bio)
+Provençale";;19;;Rue;Des Carmes;;;13200;Arles;ARLES;non;;04 90 47 61 13;contact@rabanel.com;http://www.bistro-acote.com;4.626989;43.676099
+NINO;cdt:Restaurant;;Gastronomique;;1;;Quai;Barthélemy;;;13260;Cassis;CASSIS;non;;04 42 01 74 32;;http://www.nino-cassis.com;5.5364515;43.2147956
+Le Bistrot d'Eygalières;cdt:Restaurant;;Actuelle;;;;Route;D'Orgon;;;13810;Eygalières;EYGALIERES;non;;04 90 90 60 34;sbru@club-internet.fr;http://www.chezbru.com;4.949371;43.76144
+Ou Ravi Provençau;cdt:Restaurant;;"Provençale
+Traditionnelle";;34;;Avenue;De la Vallée des Baux;;;13520;Maussane les Alpilles;MAUSSANE LES ALPILLES;non;;04 90 54 31 11;nrichard@ouravi.net;http://www.ouravi.net;4.803012;43.721574
+Chez Xa;cdt:Restaurant;;"Poisson/fruits de mer
+Traditionnelle
+Méditerranéenne 
+Provençale";;24;;Boulevard;Mirabeau;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 41 23;martineaxa@hotmail.fr;;4.833629;43.789524
+La Petite France;cdt:Restaurant;;"Traditionnelle
+Provençale";;55;;Avenue;La Vallée des Baux;;;13520;Le Paradou;LE PARADOU;non;;04 90 54 41 91;reservation@lapetitefrance.info;http://www.lapetitefrance.info;4.787773;43.720837
+Le Relais du Coche;cdt:Restaurant;;Gastronomique;;;;Place;Monier;;;13430;Eyguières;EYGUIERES;non;;04 90 59 86 70;;;5.030253;43.693706
+Le Bistrot du Paradou;cdt:Restaurant;;Provençale;;57;;Avenue;De la Vallée des Baux;;;13520;Le Paradou;LE PARADOU;non;;04 90 54 32 70;;;4.80469;43.721016
+La Touloubre;cdt:Restaurant;;Gastronomique;;29;;Chemin;Salatier;;;13330;La Barben;LA BARBEN;non;;04 90 55 16 85;restaurant@latouloubre.com;http://www.latouloubre.com;5.175054;43.629754
+La Place;cdt:Restaurant;;Gastronomique;;65;;Avenue;De la Vallée des Baux;;;13520;Maussane les Alpilles;MAUSSANE LES ALPILLES;non;;04 90 54 23 31;;http://www.maisonsdebaumaniere.com;4.80583;43.720623
+La Maison Jaune-François Perraud;cdt:Restaurant;;Gastronomique;;15;;Rue;Carnot;;;13210;Saint Rémy de Provence;SAINT REMY DE PROVENCE;non;;04 90 92 56 14;lamaisonjaune@wanadoo.fr;http://www.lamaisonjaune.info;4.831304;43.78922
+Plaza (La Paillotte);cdt:Restaurant;;"Traditionnelle
+Provençale";;28;;Rue;Du Docteur Fanton;;;13200;Arles;ARLES;non;;04 90 96 33 15;bognier@free.fr;;4.626372;43.678339
+Oustau de Baumanière;cdt:Restaurant;;"Gastronomique
+Actuelle
+Traditionnelle";;;;RD;27;Val d'Enfer;;13520;Les Baux de Provence;LES BAUX DE PROVENCE;non;;04 90 54 33 07;oustau@relaischateaux.com;http://www.oustaudebaumaniere.com;4.795339;43.746793
+La Cabro d'Or;cdt:Restaurant;;"Gastronomique
+Actuelle";;;;;;;;13520;Les Baux de Provence;LES BAUX DE PROVENCE;non;;04 90 54 33 21;cabro@relaischateaux.com;http://www.lacabrodor.com;4.788215;43.739802
+Yoji;"cdt:Restaurant
+cdt:LivraisonADomicilePlatAEmporter";Plats à emporter;"Japonaise
+Coréenne
+Gastronomique";;7;;Avenue;Victor Hugo;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 38 48 76;contact@yoji-restaurant.com;http://www.yoji.fr;5.44623;43.52539
+Bistrot La Petite Cuisine;cdt:Restaurant;;Méditerranéenne ;;;;Avenue;Du Revestel;Anse du Corton;;13260;Cassis;CASSIS;non;;04 96 18 00 00;contact@lavillamadie.com;http://www.lavillamadie.com;5.545542;43.210806
+La Villa Madie;cdt:Restaurant;;"Gastronomique
+Actuelle";;;;Avenue;Du Revestel;Anse du Corton;;13260;Cassis;CASSIS;non;;04 96 18 00 00;contact@lavillamadie.com;http://www.lavillamadie.com;5.545478;43.210744
+Brasserie Les Deux Garçons (Les 2 G);cdt:Restaurant;;"Traditionnelle
+Gastronomique";;53;;Cours;Mirabeau;;;13100;Aix en Provence;AIX EN PROVENCE;non;;04 42 26 00 51;contact@les2garcons.fr;http://www.les2garcons.fr;5.450554;43.527096
+Abbaye de Sainte Croix;cdt:Restaurant;;Gastronomique;;D 16;;Route;Du Val de Cuech;;;13300;Salon de Provence;SALON DE PROVENCE;non;;04 90 56 24 55;saintecroix@dgmail.fr;http://www.hotels-provence.com;5.123841;43.654059

@@ -1,0 +1,8 @@
+var webdata = {
+	'06-31-2014' : '<a href="http://www.webdesignermag.co.uk/" target="_blank">Issue 208 on sale</a>',
+	'06-21-2014' : '<a href="http://www.webdesignermag.co.uk/" target="_blank">Issue 209 on sale</a><a href="http://www.webdesignermag.co.uk/" target="_blank">Issue 209 on sale</a>',
+	'06-20-2014' : '<a href="http://www.webdesignermag.co.uk/" target="_blank">Issue 210 on sale</a>',
+	'06-19-2014' : '<a href="http://www.webdesignermag.co.uk/" target="_blank">Issue 211 on sale</a>',
+	'12-25-2014' : '<span>Christmas Day</span>',
+	'12-31-2014' : '<span>New Year\'s Eve</span>'
+};
